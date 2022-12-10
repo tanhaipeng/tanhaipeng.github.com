@@ -5,8 +5,8 @@ tags: [docker]
 comments: false
 ---
 
-> 以下内容整理自张磊老师《深入剖析Kubernetes》
 
+> 以下内容整理自张磊老师《深入剖析Kubernetes》
 
 ## 1 初出茅庐
 
