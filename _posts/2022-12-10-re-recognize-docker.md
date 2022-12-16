@@ -1,10 +1,12 @@
 ---
 layout: post
-title: 重新认识Docker
-subtitle: Docker发展史
-tags: [docker]
-comments: false
+title: Welcome
+subtitle: Each post also has a subtitle
+tags: [test]
+comments: true
 ---
+
+This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
 
 > 以下内容整理自张磊老师《深入剖析Kubernetes》
