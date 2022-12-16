@@ -5,7 +5,7 @@ tags: [docker]
 comments: false
 ---
 
-根据张磊老师《深入剖析Kubernetes》课程内容整理
+根据张磊老师《深入剖析Kubernetes》课程内容整理，详细介绍Docker项目的起源、进化、生态等
 
 
 ## 1 初出茅庐
@@ -136,6 +136,6 @@ Docker 公司对 Mesos 社区也是类似的看法。所以从一开始，Docker
 所以，从 2017 年开始，Docker 公司先是将 Docker 项目的容器运行时部分 Containerd捐赠给 CNCF 社区，标志着 Docker 项目已经全面升级成为一个 PaaS 平台；紧接着，Docker 公司宣布将 Docker 项目改名为 Moby，然后交给社区自行维护，而 Docker 公司的商业产品将占有 Docker 这个注册商标。 
 Docker 公司这些举措背后的含义非常明确：它将全面放弃在开源社区同 Kubernetes 生态的竞争，转而专注于自己的商业业务，并且通过将 Docker 项目改名为 Moby 的举动，将原本属于 Docker 社区的用户转化成了自己的客户
 
--  2017 年 10 月，Docker 公司出人意料地宣布，将在自己的主打产品 Docker 企业版中内置Kubernetes 项目，这标志着持续了近两年之久的“编排之争”至此落下帷幕。 
+- 2017 年 10 月，Docker 公司出人意料地宣布，将在自己的主打产品 Docker 企业版中内置Kubernetes 项目，这标志着持续了近两年之久的“编排之争”至此落下帷幕。 
 - 2018 年 1 月 30 日，RedHat 宣布斥资 2.5 亿美元收购 CoreOS。 
 - 2018 年 3 月 28 日，这一切纷争的始作俑者，Docker 公司的 CTO Solomon Hykes 宣布辞职，曾经纷纷扰扰的容器技术圈子，到此尘埃落定
