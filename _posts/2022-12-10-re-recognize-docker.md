@@ -3,6 +3,7 @@ layout: post
 title: 重新认识Docker
 tags: [docker]
 comments: false
+author: Simon
 ---
 
 根据张磊老师《深入剖析Kubernetes》课程内容整理，详细介绍Docker项目的起源、进化、生态等
